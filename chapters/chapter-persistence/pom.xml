@@ -22,7 +22,7 @@
   </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <ignite.version>1.6.0</ignite.version>
+        <ignite.version>2.1.0</ignite.version>
     </properties>
     <dependencies>
         <dependency>
